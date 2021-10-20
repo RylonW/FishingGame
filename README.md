@@ -18,8 +18,8 @@ Exe下载链接：https://drive.google.com/drive/folders/1QYExlvtglAgdhpS_6NZH8K
 
 甩杆：
 
-<img src="https://github.com/RylonW/FishingGame/blob/main/%E7%A4%BA%E6%84%8F%E5%9B%BE/%E7%94%A9%E6%9D%86.png" width = "500" height = "100" alt="" align=center />
+<img src="https://github.com/RylonW/FishingGame/blob/main/%E7%A4%BA%E6%84%8F%E5%9B%BE/%E7%94%A9%E6%9D%86.png" width = "500" height = "300" alt="" align=center />
 
 图鉴：
 
-<img src="https://github.com/RylonW/FishingGame/blob/main/%E7%A4%BA%E6%84%8F%E5%9B%BE/%E5%9B%BE%E9%89%B4.png" width = "500" height = "100" alt="" align=center />
+<img src="https://github.com/RylonW/FishingGame/blob/main/%E7%A4%BA%E6%84%8F%E5%9B%BE/%E5%9B%BE%E9%89%B4.png" width = "500" height = "300" alt="" align=center />
